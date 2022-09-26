@@ -1,0 +1,9 @@
+import java.util.Scanner();
+public class className()
+{
+ public static void main(String args[])
+ {
+  Scanner sc=newScanner(System.in);
+  //use space for writing code.
+ }
+}
